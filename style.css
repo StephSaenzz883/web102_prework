@@ -79,3 +79,30 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
+#search-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+#search-input {
+    width: 300px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-right: 5px;
+}
+
+#search-button {
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: none;
+    background-color: #007BFF;
+    color: white;
+    cursor: pointer;
+}
+
+#search-results {
+    margin-top: 20px;
+    text-align: center;
+}
