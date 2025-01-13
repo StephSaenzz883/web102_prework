@@ -18,9 +18,9 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [X] List anything else that you can get done to improve the app functionality!
-      *Added a nav bar
-      *Added CSS, like a yellow outline on the Top Games section.
-      *Added a search bar to search for games
+* [X] Added a nav bar
+* [X] Added CSS, like a yellow outline on the Top Games section.
+* [X] Added a search bar to search for games
 
 ## Video Walkthrough
 
