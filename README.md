@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Lab0_Pre-Work](https://github.com/user-attachments/assets/3359e754-f2fc-4885-99cd-09f4ebc6cf3a)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Ezgif](https://ezgif.com/).
